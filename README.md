@@ -77,7 +77,7 @@ notebooks/                      EDA charts (phase_dot_wicket.png, length_outcome
   at the death — a spinner who's most dangerous in overs he's rarely used in.
 
 ## Tools
-Python (pandas, matplotlib) · MySQL · Power BI · DAX
+Python (pandas) · MySQL · Power BI · DAX
 
 ## How to extend this
 1. Scale Layer 2 by tagging more matches the same way (methodology is fully
