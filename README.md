@@ -1,4 +1,7 @@
 # ipl2026-bowling-analytics
+![Season Overview](page1_season_overview.png)
+
+📥 [Download the full Power BI file](IPL2026_Bowling_Analytics.pbix) to explore interactively.
 
 
 # IPL 2026 Bowling Analytics: Length & Variation Difficulty
